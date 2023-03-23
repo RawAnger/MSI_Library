@@ -27,7 +27,7 @@ module DECODER(
     end        
 endmodule
 
-module ENCODER(
+module ENCODER(  //structural code
     input[3:0] IN,
     output [1:0] OUT,
     output V
@@ -43,7 +43,7 @@ endmodule
 
 
 
-//module ENCODER(
+//module ENCODER(   //always-case structure
 //    input[3:0] IN,
 //    output reg [1:0] OUT,
 //    output reg V
@@ -67,7 +67,7 @@ module MUX(
     output O
     );
     
-//    always@(*)
+//    always@(*)   //always structure
 //    begin
 //    case(S)
 //        2'd0: O = D[0];
@@ -100,12 +100,4 @@ module DEMUX(
     
     
  endmodule
- /*   
-    wire w0, w1, w2;
-    or o1(OUT[1],IN[3],IN[2]);
-    not(w0, IN[2]);
-    and a2(w1, IN[1],w0);
-    or o2(OUT[0],IN[3],w1);
-    or o3(V,OUT[1],IN[1],IN[0]);
- */   
-    
+
