@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.srcs/sim_1/new/top_module_tb.v,1666645822,verilog,,,,top_module_tb,,,,,,,,
+C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.srcs/sources_1/imports/new/SSI_Library.v,1666063436,verilog,,C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.srcs/sources_1/new/top_module.v,,AND;EXNOR;EXOR;NAND;NOR;NOT;OR;TRI,,,,,,,,
+C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.srcs/sources_1/new/MSI_Library.v,1666645476,verilog,,C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.srcs/sources_1/imports/new/SSI_Library.v,,DECODER;DEMUX;ENCODER;MUX,,,,,,,,
+C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.srcs/sources_1/new/top_module.v,1666643307,verilog,,C:/Users/onurd/Desktop/sstu/Deney 2/MSI_Library/MSI_Library.srcs/sim_1/new/top_module_tb.v,,top_module,,,,,,,,
